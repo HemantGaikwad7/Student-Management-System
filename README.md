@@ -1,7 +1,7 @@
 # Student Management System
 
 ## Description
-The Student Management System is designed to store and manage student information efficiently using Java Database Connectivity (JDBC). This system provides a fully computerized method for organizing, storing, and retrieving student data.
+The Student Management System is designed to store and manage student information efficiently using Java Database Connectivity (JDBC). This system provides a fully computerized method for organizing, storing, and retrieving student data. This is one of my initial projects completed unisg Notepad, this project improved my coding, analytical, logical and problem solving skills.
 
 ## Key Features
 - **Data Entry**: Allows for the input of student details such as name, age, address, course, and other relevant information.
